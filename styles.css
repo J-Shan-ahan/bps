@@ -1,0 +1,79 @@
+body, h1 {
+    margin: 0;
+    padding: 0;
+    color: #CFA748;
+}
+
+body {
+    font-family: Roboto;
+    font-size: larger;
+    background-color: #54575C;
+    color: #FEFEFE;
+}
+
+.col {
+    margin: 20px; 
+  }
+
+.hr {
+    height: 7px;
+    background-color: #FEFEFE;    
+    max-width: 100%;
+}
+
+.email-link {
+    color: #CFA748;
+    font-size: smaller;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.logo {
+    max-width: 80%;
+    padding-bottom: 10px;  
+}
+h1, h2 {
+    padding-top: 20px;
+    margin-bottom: 20px;
+    color: #CFA748;
+}
+
+p {
+    line-height: 1.5;
+}
+
+ul  {
+    list-style-image: url('static/bullet.webp');
+    margin: 0; 
+    padding: 0;
+}
+li {    
+    margin-bottom: 10px; 
+    padding-left: 10px; 
+    background-repeat: no-repeat; 
+    background-size: 10px; 
+    background-position: left center; 
+  }
+
+.portfolio {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    max-width: 90%;   
+}
+
+.box h2 {
+    text-align: center;
+}
+
+.form {
+    max-width: 70%;
+    margin: 0 auto; 
+}
+
+.form-control {
+    width: 100%; 
+}
