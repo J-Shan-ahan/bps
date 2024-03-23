@@ -10,10 +10,6 @@ body {
     color: #FEFEFE;
 }
 
-.col {
-    margin: 10px; 
-  }
-
 .hr {
     height: 7px;
     background-color: #FEFEFE;    
@@ -23,22 +19,15 @@ body {
 .email-link {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #CFA748;
-    font-size: larger;    
-}
-
-.container {
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px;
+    font-size: larger;
+    
 }
 
 .logo {
-    max-width: 80%;
-    padding-bottom: 10px;  
+    max-width: 90%;      
 }
+
 h1, h2 {
-    padding-top: 20px;
-    margin-bottom: 20px;
     color: #CFA748;
 }
 
