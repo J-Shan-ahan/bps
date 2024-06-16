@@ -23,6 +23,12 @@ body {
     
 }
 
+.btn-primary {
+    background-color: #CFA748;
+    border-color: #CFA748;;
+    color: black;
+}
+
 .logo {
     max-width: 90%;      
 }
@@ -62,6 +68,10 @@ li {
 .form {
     max-width: 70%;
     margin: 0 auto; 
+}
+
+custom-img {
+    max-width: 20%;
 }
 
 .form-control {
